@@ -1,0 +1,115 @@
+CS121P:
+Bunyan, John
+Henry, Matthew
+Luther, Martin
+
+MA253:
+Bunyan, John
+Henry, Matthew
+Luther, Martin
+
+CS361A:
+Bunyan, John
+Rutherford, Samuel
+
+CS132S:
+Calvin, John
+Knox, John
+Owen, John
+
+CS202H:
+Calvin, John
+Knox, John
+Owen, John
+
+CS312N:
+Calvin, John
+Knox, John
+Owen, John
+
+CS342D:
+Calvin, John
+Knox, John
+Owen, John
+
+CS362N:
+Calvin, John
+Tyndale, William
+
+CS301A:
+Cranmer, Thomas
+Latimer, Hugh
+Ridley, Nicolas
+
+CS321O:
+Cranmer, Thomas
+Latimer, Hugh
+Ridley, Nicolas
+
+CS321P:
+Cranmer, Thomas
+Latimer, Hugh
+Ridley, Nicolas
+
+CS361M:
+Cranmer, Thomas
+Spurgeon, Charles
+
+CS322E:
+Edwards, Jonathan
+Lloyd-Jones, Martyn
+Rodgers, John
+
+CS490I:
+Edwards, Jonathan
+Lloyd-Jones, Martyn
+Rodgers, John
+
+CS492S:
+Edwards, Jonathan
+Lloyd-Jones, Martyn
+Rodgers, John
+
+CS362V:
+Edwards, Jonathan
+Whitefield, George
+
+MA121:
+Henry, Matthew
+Rutherford, Samuel
+
+CS322X:
+Knox, John
+Tyndale, William
+
+CS341W:
+Latimer, Hugh
+Rutherford, Samuel
+
+CS351S:
+Latimer, Hugh
+Rutherford, Samuel
+
+ACC210:
+Luther, Martin
+Spurgeon, Charles
+
+MGT310:
+Luther, Martin
+Spurgeon, Charles
+
+CS311C:
+Ridley, Nicolas
+Spurgeon, Charles
+
+CS392M:
+Rodgers, John
+Whitefield, George
+
+MA122:
+Tyndale, William
+
+MA262:
+Tyndale, William
+Whitefield, George
+
