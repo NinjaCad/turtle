@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Caedmon Julian</title>
+  <meta name="description" content="Caedmon Julian - Computer Science student and developer. Explore my portfolio in web development, game design, and more about me.">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
+  <style>
+    body {
+      background: linear-gradient(to right, #111, #1a1f2c);
+      color: #aaa;
+      font-family: Verdana, Geneva, sans-serif;
+      margin: 0;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    header {
+      background: linear-gradient(to right, #111, #1a1f2c);
+      position: fixed;
+      width: 100%;
+      z-index: 10;
+      top: 0;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+      border-bottom: 1px solid #333;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: #f2f2f2;
+      padding: 14px 20px;
+      display: block;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s, background 0.3s;
+    }
+    nav a:hover {
+      background: linear-gradient(to right, #2a3f5f, #1f2b45);
+      color: #ddd;
+    }
+    main {
+      max-width: 1000px;
+      margin: 100px auto 50px auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 60px;
+    }
+    #home {
+      padding: 120px 0 120px 0;
+      text-align: center;
+    }
+    #home h1 {
+      background: linear-gradient(90deg, #00d2ff, #3a7bd5);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+      font-size: 4rem;
+      margin: 0;
+    }
+    #home p {
+      color: #bbb;
+      font-size: 1.2rem;
+      margin-top: 20px;
+    }
+    h2, h3 {
+      text-align: center;
+      background: linear-gradient(to right, #eee, #dde);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .card {
+      background: linear-gradient(160deg, #1a1a1a, #222428);
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 20px 0;
+      gap: 20px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+      transition: 0.3s;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      text-align: center;
+      flex-flow: row wrap;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 0 12px #00d2ff60;
+      border-color: #00d2ff;
+    }
+    .card img {
+      width: 120px;
+      height: 120px;
+      object-fit: contain;
+      border-radius: 8px;
+      border: 1px solid #444;
+      background: #fff;
+    }
+    .card div {
+      flex: auto;
+    }
+    a {
+      color: #00d2ff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .contact {
+      flex-direction: column;
+      align-items: center;    
+      text-align: center;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #777;
+      border-top: 1px solid #333;
+      background: linear-gradient(to right, #111, #1a1f2c);
+    }
+    @media (max-width: 600px) {
+      #home h1 {
+        font-size: 3rem;
+      }
+    video {
+      max-width: 90%;
+      height: auto;
+      border: 2px solid #2c3e50;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section id="home">
+      <h1>Lindenmayer System Graphics Generator</h1>
+    </section>
+
+    <section id="content">
+      <div class="card">
+        <video controls>
+          <source src="turtleclip.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+  </main>
+
+  <footer>
+    <p>
+      © 2025 Caedmon Julian. All rights reserved.<br>
+      Hosted using
+      <a href="https://www.github.com/NinjaCad/portfolio" target="_blank">Github Pages</a>
+    </p>
+  </footer>
+</body>
+</html>
